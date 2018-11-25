@@ -1,2 +1,4 @@
 # my_1st_project
-files for practicing and learning programming techniques
+Files for practicing and learning programming techniques  
+Programs uploaded here are only for educational purposes  
+Enjoy!  
