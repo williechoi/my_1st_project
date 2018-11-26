@@ -13,10 +13,10 @@ class Solution:
         self.queue_a.append(char)   # enqueue a character into the queue
 
     def popCharacter(self):
-        return self.stack_a.pop()   # pop the top thing from the stack
+        return self.stack_a.pop()   # pop the top character from the stack
 
     def dequeueCharacter(self):
-        return self.queue_a.pop(0)  # dequeue the first thing from the queue
+        return self.queue_a.pop(0)  # dequeue the first character from the queue
 
 # read the string s
 s = input()
